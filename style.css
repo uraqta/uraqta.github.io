@@ -1,0 +1,43 @@
+.profile{
+    
+border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px; 
+border-radius: 25px;
+
+padding: 20px;
+width: 300px;
+height: 250px;
+text-align: center;
+background-image: linear-gradient(cyan,  yellow);
+
+}
+.profilepic{
+    width: 150px;
+    height: 130px;
+    border-radius: 130px;
+    text-align: center;
+
+}
+.bod{
+       background: linear-gradient(to right, #5bb3d1, #6bcf92)
+}
+
+.container {
+  display: flex;
+  align-items: flex-start; /* Optional: aligns the tops */
+  gap: 20px; /* Optional: space between the two */
+  padding: 20px;
+}
+.description {
+  background-color: white;
+  width: 600px;
+  height: 450px;
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 20px;
+}
